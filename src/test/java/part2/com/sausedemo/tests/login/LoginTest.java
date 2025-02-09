@@ -1,6 +1,5 @@
 package part2.com.sausedemo.tests.login;
 
-import org.sausedemo.pages.ProductsPage;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import part2.com.sausedemo.base.BaseTest;
